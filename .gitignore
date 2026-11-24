@@ -19,6 +19,9 @@ venv/
 coverage.xml
 *.log
 docs/
+!docs/
+docs/*
+!docs/*.md
 **/.venue-template/
 literature/papers/
 *.pdf
